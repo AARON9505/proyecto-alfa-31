@@ -21,16 +21,15 @@
 		
 	</div>
 
-	<div>
+	<a href="/login">
 		<span></span>
 		<p>login</p>
+	</a>
 
-	</div>
-
-	<div>
+	<a href="/search">
 		<span></span>
 		<p>search</p>
-	</div>
+	</a>
 
 </nav>
 

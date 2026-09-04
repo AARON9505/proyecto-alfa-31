@@ -10,7 +10,7 @@
 
 
 <nav>
-	<p>PROYECT ARC</p>
+	<p>PROYECT-ARC</p>
 
 	<div>
 		<a href="/">menu</a>
@@ -36,5 +36,13 @@
 {@render children()}
 
 <footer>
-	Este es mi pie de pagina
+	<p>PROYECT-ARC</p>
+
+	<div>
+		<!-- svelte-ignore a11y_consider_explicit_label -->
+		<a href="/creator">creator</a>
+		<p>privacy</p>
+		<p>hardware</p>
+		<p>community</p>
+	</div>
 </footer>
